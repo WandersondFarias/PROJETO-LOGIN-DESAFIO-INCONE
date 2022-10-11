@@ -47,4 +47,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
   </tr>
 </table>
- check application <a href=" check application <a href="https://wandersondefariasprogramador.github.io/PROJETO-LOGIN/">HERE!</a>
+  check application <a href="https://wandersondefariasprogramador.github.io/PROJETO-LOGIN/">HERE!</a>
