@@ -46,7 +46,7 @@ button {
     border-radius: 4px;
     width: 300px;
     height: 45px;
-    margin-top: 50px;
+    margin-top: 10px;
     border: none;
     color: #2148C0;
     font-size: 16px;
@@ -64,6 +64,6 @@ a {
     display: block;
     text-align: center;
     margin-left: 190px;
-    padding: 5px;
+    padding: 0px;
     color: white;
 }
