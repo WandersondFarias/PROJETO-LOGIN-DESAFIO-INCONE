@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +9,14 @@
 </head>
 <body>
 
-    <img src="./img/cart.png" alt="carinho">
+    <header>
+        <a class="link-header">HOME</a>
+        <a class="link-header">Products</a>
+        <a class="link-header">Company</a>
+        <a class="link-header">Blog</a>
+    </header>
+
+    <img src="./img/cart.png" alt="carinho" class="imgem">
 
 <input placeholder="Username">
 <input placeholder="password">
@@ -17,6 +24,19 @@
 <button>LOGIN</button>
 
 <a href="https://www.google.com.br/">Forgot password?</a>
+
+
+
+<div class="rede-sociais">
+    <ul class="redes-sociais">
+        <li><a href="https://www.facebook.com.br/"><img src="img/explorer.png"  height="30px"   ></a></li>
+        <li><a href="https://www.google.com.br/"><img src="img/google.png"      height="30px"></a></li>
+        <li><a href="https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6nurby5H4AhX1Q7gEHaupBTgQFnoECBEQAQ&url=https%3A%2F%2Fwww.microsoft.com%2Fpt-br%2Fdownload%2Finternet-explorer.aspx&usg=AOvVaw2AUATNlKhSZdt5TgHx6f8l"><img src="img/facebook.png" height="30px"  ></a></li>
+       
+       
+</ul>
+</div>
+</div>
 
 
 </body>
