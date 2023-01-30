@@ -89,7 +89,7 @@ button:hover {
 a {
     display: block;
     text-align: center;
-    margin-left: 150px;
+    margin-left: 190px;
     padding: 0px;
     color: white;
     
@@ -107,8 +107,11 @@ a:active {
 
  .redes-sociais{
    display: flex;
-   margin-left: 350px;
+   margin-left: 330px;
+   
    list-style: none;
+   
+
   
    
    
