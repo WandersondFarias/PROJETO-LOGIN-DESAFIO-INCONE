@@ -9,6 +9,7 @@ body {
     background: url("./img/background.png");
     background-repeat: no-repeat;
     background-size: cover;
+    position: fixed;
 
 }
 
@@ -19,6 +20,7 @@ header{
     margin-left: 500px;
     cursor: pointer;
     
+    
    
     
 }
@@ -26,8 +28,9 @@ header{
 .link-header{
   display: inline;
   margin: 15px;
-  padding: 10px;
-  margin-left: px;
+  padding: 70px;
+ 
+  
    
     
 }
@@ -107,8 +110,8 @@ a:active {
 
  .redes-sociais{
    display: flex;
-   margin-left: 330px;
-   list-style: none;
+   margin-left: 300px;
+   
    
 
   
@@ -121,8 +124,8 @@ a:active {
     align-items: center;
     width: 100px;
    padding-left: 40px;
-   padding-right: 100px;
-   margin-bottom: 500px;
+   padding-right: 120px;
+  
  
    
     
