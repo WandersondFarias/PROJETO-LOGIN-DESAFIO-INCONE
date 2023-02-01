@@ -89,41 +89,4 @@ I am studying systems analysis and development My focus is currently on the fron
   
   
   
-  🧑‍💻 Technologies e Tools I use:
  
- 
- 
- <div>
- <img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-<img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
-<img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>  
-    <img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-    <img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-  <img aling="centeer"alt="wanderson-html"heignt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-    
-   </div>
-   
-   <br>
-   
-  <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=wandersondfarias&theme=drark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-  
- 
-  
-  
-
-  
-  
-  
-  
-  
-  
-
-.github.io/PROJETO-LOGIN/">HERE!</a>
